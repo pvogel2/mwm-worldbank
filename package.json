@@ -18,5 +18,8 @@
   "keywords": [],
   "author": "Peter Vogel",
   "license": "GPL",
+  "dependencies": {
+    "mongodb": "*"
+  },
   "homepage": "https://github.com/pvogel2/mwm-worldbank"
 }
